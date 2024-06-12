@@ -10,3 +10,5 @@ To generate data execute the file "colab_datagen.m".
 Plain text files will start generating automatically containing information in the following columns (separated by semicolons):
 
 Time; Duty Cycle; Inductor Current; RMS Current; Capacitor Voltage; Power; Load;
+
+If needed, the file "read_script" can be executed to load back the information of a text file to MATLAB's workspace.
